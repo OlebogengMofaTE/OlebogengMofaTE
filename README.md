@@ -68,7 +68,7 @@
 ## Study Progress
 - 📖 Currently studying: Data Structures and Algorithms
 - 🎯 Working on: Algorithm implementation in C#
-- 📝 Practice platform: [Your preferred DSA practice platform]
+- 📝 Practice platform: [VS]
 
 ## Daily Inspiration
 > "Whatever you do, work heartily, as for the Lord and not for men" - Colossians 3:23
