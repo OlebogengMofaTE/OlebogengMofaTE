@@ -19,6 +19,8 @@
 
 ### Programming Languages
 - C#
+- R
+- SAS
 - HTML
 - CSS
 - SQL
@@ -81,9 +83,7 @@
 
 ## Connect with Me
 - GitHub: [@OlebogengMofaTE](https://github.com/OlebogengMofaTE)
-<!-- Add your professional social media links here -->
-
----
+- Linkedin : www.linkedin.com/in/mofate-olebogeng-778ba2232
 
 💡 "For wisdom will enter your heart, and knowledge will be pleasant to your soul." - Proverbs 2:10
 
